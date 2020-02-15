@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Tomato Disease Identification And Pest Suggestion</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">1</string>
+    <string-array name="languages">
+        <item>ENGLISH</item>
+        <item>தமிழ்</item>
+    </string-array>
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Float</item>
+        <item>Quantized</item>
+    </string-array>
+
+    <string name="device">Device:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="bacterialSpot1">Pest Suggested:\nStreptomycin sulphate and Copper oxy chloride</string>
+    <string name="bacterialSpot2">Way to use:\nFoliar application of Streptomycin sulphate @ 3gram and 25gram Copper oxy chloride in 10 liters of water. \nPreventive spray can be done if cloudy weather persist for 2 days.\n
+Two to three sprays at 15 days interval.</string>
+    <string name="bacterialSpot3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nஸ்ட்ரெப்டோமைசின் சல்பேட் மற்றும் காப்பர் ஆக்ஸி குளோரைடு</string>
+    <string name="bacterialSpot4">பயன்படுத்த வழி:\n3 கிராம் கிஸ்ட்ரெப்டோமைசின் சல்ஃபேட் மற்றும் 25 கிராம் காப்பர் ஆக்ஸி குளோரைட்டை  10 லி தண்ணீரில் கலந்து, அதை பயிர் மேல் தெளிக்கவும்.\nதொடர்ந்து 2 நாட்கள் மேகமூட்டதுடன் வானிலை தென்பட்டால் வருமுன் தடுப்பதற்காக ஒரு முறை தெளிப்பு செய்யவும்.\n
+15 நாட்கள் இடைவெளியில் 2 (அ) 3 முறை தெளிக்கவும்.</string>
+    <string name="bacterialLateBlight1">Pest Suggested:\nStreptomycin sulphate and Copper oxy chloride</string>
+    <string name="bacterialLateBlight2">Way to use:\nFoliar application of Streptomycin sulphate @ 3gram and 25gram Copper oxy chloride in 10 liters of water. \nPreventive spray can be done if cloudy weather persist for 2 days.
+\nTwo to three sprays at 15 days interval.</string>
+    <string name="bacterialLateBlight3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nஸ்ட்ரெப்டோமைசின் சல்பேட் மற்றும் காப்பர் ஆக்ஸி குளோரைடு</string>
+    <string name="bacterialLateBlight4">பயன்படுத்த வழி:\n3 கிராம் கிஸ்ட்ரெப்டோமைசின் சல்ஃபேட் மற்றும் 25 கிராம் காப்பர் ஆக்ஸி குளோரைட்டை  10 லி தண்ணீரில் கலந்து, அதை பயிர் மேல் தெளிக்கவும்.\nதொடர்ந்து 2 நாட்கள் மேகமூட்டதுடன் வானிலை தென்பட்டால் வருமுன் தடுப்பதற்காக ஒரு முறை தெளிப்பு செய்யவும்.\n
+15 நாட்கள் இடைவெளியில் 2 (அ) 3 முறை தெளிக்கவும்.</string>
+    <string name="earlyLateBlight1">Pest Suggested:\nTebuconazole </string>
+    <string name="earlyLateBlight2">Way to use:\nFoliar application at fortnightly intervals @ 7.5ml in 10 liters of water either twice or thrice immediately after the appearance of the symptom.</string>
+    <string name="earlyLateBlight3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nடைபுகோனசோல் </string>
+    <string name="earlyLateBlight4">பயன்படுத்த வழி:\n7.5 ml டைபுகோனசோலை 10 லி தண்ணீரில் கலந்து மாதம் இரு முறை (அ) மும்முறை நோயின் அறிகுறி தோன்றியவுடன் தெளிக்கவும். </string>
+    <string name="lateBlight1">Pest Suggested:\nMetalaxyl</string>
+    <string name="lateBlight2">Way to use:\nFoliar application at fortnightly intervals @ 0.15% (15g in 10 liters of water) either twice or thrice immediately after the appearance of the symptom.</string>
+    <string name="lateBlight3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nமெட்டாலைக்சல்</string>
+    <string name="lateBlight4">பயன்படுத்த வழி:\n7.5 ml மெட்டாலைக்சலை 10 லி தண்ணீரில் கலந்து மாதம் இரு முறை (அ) மும்முறை நோயின் அறிகுறி தோன்றியவுடன் தெளிக்கவும்.</string>
+    <string name="septoriaLeafSpot1">Pest Suggested:\nMancozeb </string>
+    <string name="septoriaLeafSpot2">Way to use:\nFoliar application at fortnightly intervals @ 25 gram in 10 liters of water either twice or thrice immediately after the appearance of the symptom.</string>
+    <string name="septoriaLeafSpot3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nமேன்கோசெப் </string>
+    <string name="septoriaLeafSpot4">பயன்படுத்த வழி:\n25 கிராம் மேன்கோசெப்பை 10 லி தண்ணீரில் கலந்து மாதம் இரு முறை (அ) மும்முறை நோயின் அறிகுறி தோன்றியவுடன் தெளிக்கவும்.</string>
+    <string name="yellowLeafCurl1">Pest Suggested:\nThiamethoxam</string>
+    <string name="yellowLeafCurl2">Way to use:\nFoliar application at fortnightly intervals @ 25 gram in 10 liters of water either twice or thrice immediately after the appearance of the symptom.
+\nFollowed by it foliar application of Bacillus amyloliquefaciens @5g/liter of spray fluid at fortnightly intervals till harvest will serve as biostimulant to suppress the disease.</string>
+    <string name="yellowLeafCurl3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nதையாமெத்தோஜேம்</string>
+    <string name="yellowLeafCurl4">பயன்படுத்த வழி:\n25 கிராம் தையாமெத்தோஜேமை 10 லி தண்ணீரில் கலந்து மாதம் இரு முறை (அ) மும்முறை நோயின் அறிகுறி தோன்றியவுடன் தெளிக்கவும்.\n5g பேசில்லஸ் அமைலோலிக்ஷஃபேசியன்ஸ் எடுத்து 1 லி தண்ணீரில் கலந்து மாதம் இரு முறை என அறுவடை வரை இலையின் மீது நோய் தடுப்பானாக தெளிக்கலாம்.</string>
+    <string name="nutrientManagement">Nutrient Management:\nFor Hybrids recommended NPK dose is 120:60:60 kg/ha.Apply 50 per cent of N and K full dose of P2O5 as basal and remaining ½ N and K at 40 – 45 DAS for varieties.For hybrids apply N in three splits viz., basal, 45 and 65 DAS.\n
+If basal application could not be done, apply on the 25th day after sowing.\n
+Apply the fertilizers in a band, two-thirds of the distance from the top of the ridge, and incorporate.Apply micronutrient mixture as foliar application @ 1 per cent
+</string>
+    <string name="nutrientManagement2">ஊட்டச்சத்து மேலாண்மை:\nகலப்பினத் தாவரங்களுக்கு (Hybrid), (N) தழைசத்து, (P) மணிசத்து, (K) சாம்பல்சத்து போன்றவற்றை 120:60:60 கிலோ / ஹெக்டர் என்ற விகிதத்தில் பயன்படுத்தலாம்.\nரகங்களுக்கு 50% தழைசத்து சாம்பல்சத்து, 100% மணிசத்து போன்றவற்றை பயிரிடும் போது அடி உரமாகவோ, மீதமுள்ள 50% தழைசத்து சாம்பல்சத்தை விதைத்ததிலிருந்து 40-45 கழித்து உபயோகிக்கவும்.\nகலப்பினத் தாவரங்களுக்கு தழைசத்தை மூன்று பிரிவுகளாக முறையே அடி உரம், பயிரிட்டத்திலிருந்து 45 வது நாள் (அ) 65 வது நாள் உபயோகிக்கவும்.\nஅடி உரம் இடாவிட்டால், பயிரிட்டத்திலிருந்து 25 வது நாள் உரத்தை உபயோகிக்கவும்.\nபாத்தியின் மைய பகுதியில் பரிந்துரை செய்யப்பட்ட உரங்களை இட்டு நீரை பாய்ச்சவும்.\n 1 % நுண்ணுரைக் கலவையை பயிர் மேல் தெளிப்பானாக உபயோகிக்கலாம்.</string>
+    <string name="tomatoMosaic1">Pest Suggested:\nTrisodium orthophosphate</string>
+    <string name="tomatoMosaic2">Way to use:\nUse of virus-free seeds.Vector control using suitable insecticide.\nRemoval of infected plants.
+Foliar application of micro nutrients @0.15 % @ fortnightly intervals.
+</string>
+    <string name="tomatoMosaic3">பூச்சி பரிந்துரைக்கப்படுகிறது:\nதிரிசோடியம் ஆர்த்தோபாஸ்பேட்</string>
+    <string name="tomatoMosaic4">பயன்படுத்த வழி:\nவைரஸ் இல்லாத விதைகளின் பயன்பாடு. பொருத்தமான பூச்சிக்கொல்லியைப் பயன்படுத்தி திசையன் கட்டுப்பாடு.\nபாதிக்கப்பட்ட தாவரங்களை அகற்றுதல்.\nமைக்ரோ ஊட்டச்சத்துக்களை 0.15 சதவீதத்தில் இரு வார இடைவெளியில் தெளிக்கவும்.</string>
+    <!--<string name="pest">Pesticide Suggested And Guidance For Usage</string>
+    <string name="bacterialSpotPest">Spraying the plants with a mixture of Streptocycline 200 ppm and Copper oxychloride 3g per litre of water gives fairly good control of the disease.
+    Do not plant in same area in successive years, use only high quality, disease-free seed and transplants.</string>
+    <string name="lateblightPest">Apply a copper based fungicide like Bonide Liquid Copper Spray (2 oz/ gallon of water) every 7 days or less, following heavy rain or when the amount of disease is increasing rapidly.
+        If possible, time applications so that at least 12 hours of dry weather follows application.</string>
+    <string name="septoriaLeafSpotPest">Ensure all tomato crop debris is removed and destroyed in Fall or plowed deep into soil; plant only disease-free material; avoid overhead irrigation; stake plants to increase air circulation through the foliage
+     Apply chlorothalonil, maneb, macozeb, or a copper-based fungicide, such as Bordeaux mixture, copper hydroxide, copper sulfate, or copper oxychloride sulfate at 7 to 10 day intervals throughout the season. </string>
+    <string name="tomato_mosaicPest">Use of virus-free seedlings and hot water treatment of seed (50 ° C for 25 min.) or seed treatment with 20 per cent Trisodium orthophosphate solution are effective.
+    Spot treat with least-toxic, natural pest control products, such as Safer Soap, Bon-Neem and diatomaceous earth, to reduce the number of disease carrying insects.</string>
+    <string name="yellowcurvedPest">Imidacloprid should be sprayed on the entire plant and below the leaves; eggs and flies are often found below the leaves.
+        Spray every 14-21 days and rotate on a monthly basis with Abamectin so that the whiteflies do not build-up resistance to chemicals.
+    Chemicals are most effective when used early in the morning and late in the evening. This is because insects are most active at these times of the day.</string>
+--></resources>
