@@ -1,0 +1,5 @@
+future
+selenium
+tqdm
+pre-commit
+black
