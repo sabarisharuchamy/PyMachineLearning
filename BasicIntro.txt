@@ -1,0 +1,32 @@
+Data Warehousing - Storing data and efficiently managing it
+Data Mining - Retrieving usable data based on a certain condition
+Data - Unprocessed information
+Data - 3 types
+1.Structured Data -
+table - rows and columns
+2.Semi-Structured Data - XML,JSON
+3.Unstructured Data - Big data - Large vol of data accumulated within a short amount of time
+Text,Images,Audio,Video
+Data Mining - Database
+Data preparation or preprocessing
+1.Wrong data,2.Missing data,3.Data Creation,4.Data Transformation
+Probalility or statistical analysis
+Data Visualization - tableau,quick view,DIVE,bambolib,matplotlib,google data studio
+python useful packages - pandas, numpy,scipy,matplotlib,opencv,scikit-learn,scikit-image,seaborn
+Data -> Information -> Knowledge
+https://www.analyticbridge.datasciencecentral.com/profiles/blogs/python-as-a-tool-benefiting-data-scientists-in-many-ways
+https://ai.google/tools/datasets/
+https://toolbox.google.com/datasetsearch
+https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article
+https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+https://medium.com/analytics-vidhya/exploratory-data-analysis-uni-variate-analysis-of-iris-data-set-690c87a5cd40
+https://medium.com/analytics-vidhya/exploratory-data-analysis-dissecting-habermans-breast-cancer-survival-data-set-eaca165a98cc
+Data exploration - means type of data within a particular column
+for ex.. sepallengthcm - numerical value - continuous variable
+species - string values - categorical value
+exploration also means - identifying input/independent/predictor variable and output/dependent/target variable
+here in iris dataset while doing machine learning - we will leave out id - which is useless and gives no info
+sepallenghtcm,petallengthcm,sepalwidthcm,petalwidthcm - all are input/independent/predictor variables
+which are used to predict the species - output/dependent/target variable
+ie. using first 4 column values , we train a model and predict the species value - out of 3
+create an account in deepcognition.ai website
